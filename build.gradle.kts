@@ -17,4 +17,5 @@ repositories {
 
 dependencies {
     implementation(kotlin("stdlib"))
+    implementation("org.springframework.boot:spring-boot-starter-webflux:2.4.1")
 }
